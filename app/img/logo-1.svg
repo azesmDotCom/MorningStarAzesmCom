@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 543.17969 103.82757"
+   height="110.749"
+   width="579.392"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="logo-1.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1061"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.66794153"
+     inkscape:cx="289.69601"
+     inkscape:cy="55.3745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:70.00025177px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750346"
+     x="4.2095423"
+     y="88.388283"
+     id="text828"><tspan
+       sodipodi:role="line"
+       id="tspan826"
+       x="4.2095423"
+       y="88.388283"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.0003891px;line-height:0;font-family:Rockwell;-inkscape-font-specification:Rockwell;letter-spacing:-11.98129368px;fill:#ffbf00;fill-opacity:1;stroke-width:0.93750346">AZESM COM</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:70.00025177px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750346"
+     x="3.8344522"
+     y="95.406151"
+     id="text862"><tspan
+       sodipodi:role="line"
+       id="tspan860"
+       x="3.8344522"
+       y="159.2695"
+       style="font-size:35.0001297px;letter-spacing:-2.10938287px;opacity:1;fill:#ea3c53;fill-opacity:1;stroke-width:0.93750346" /></text>
+  <path
+     sodipodi:type="star"
+     style="opacity:0.98000004;fill:#ea3c53;fill-opacity:1;stroke-width:0.93750346"
+     id="path4538"
+     sodipodi:sides="5"
+     sodipodi:cx="308.78448"
+     sodipodi:cy="85.581146"
+     sodipodi:r1="11.992117"
+     sodipodi:r2="5.9960585"
+     sodipodi:arg1="1.2120257"
+     sodipodi:arg2="1.8403442"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 312.9952,96.809715 -5.80744,-5.44902 -7.7811,1.694896 3.38773,-7.207041 -4.01643,-6.876512 7.90117,0.994824 5.2988,-5.944814 1.49547,7.821876 7.29127,3.202415 -6.97692,3.839361 z"
+     inkscape:transform-center-x="0.59421209"
+     inkscape:transform-center-y="0.56520136"
+     transform="rotate(29.783123,316.70168,83.475789)" />
+</svg>
